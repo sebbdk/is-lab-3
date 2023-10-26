@@ -1,4 +1,4 @@
-# IS Lesson 07 & report
+# IS Lesson 07 & Report
 
 # Lab 03
 
